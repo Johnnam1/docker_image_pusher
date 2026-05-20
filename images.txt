@@ -1,1 +1,1 @@
-redis:8.6.3
+postgres:18.1
