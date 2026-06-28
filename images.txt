@@ -1,1 +1,1 @@
-pgvector:pg17
+pgvector/pgvector:pg17
